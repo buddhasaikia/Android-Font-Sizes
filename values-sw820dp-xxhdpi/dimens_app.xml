@@ -35,4 +35,6 @@ Github url- https://github.com/bs2015/Android-Font-Sizes.git
     <dimen name="font_xlarge">40sp</dimen>
     <dimen name="font_xxlarge">42sp</dimen>
     <dimen name="font_xxxlarge">44sp</dimen>
+
+    <dimen name="font_banner">80sp</dimen>
 </resources>
