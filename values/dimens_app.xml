@@ -21,6 +21,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Github url- https://github.com/bs2015/Android-Font-Sizes.git
 -->
 
 <resources>
@@ -33,4 +35,6 @@ SOFTWARE.
     <dimen name="font_xlarge">20sp</dimen>
     <dimen name="font_xxlarge">22sp</dimen>
     <dimen name="font_xxxlarge">24sp</dimen>
+
+    <dimen name="font_banner">66sp</dimen>
 </resources>
