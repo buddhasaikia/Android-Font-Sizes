@@ -24,16 +24,17 @@ SOFTWARE.
 
 Github url- https://github.com/buddhasaikia/Android-Font-Sizes.git
 -->
+
 <resources>
-    <dimen name="font_extra_small">20sp</dimen>
-    <dimen name="font_small">22sp</dimen>
-    <dimen name="font_default">24sp</dimen>
-    <dimen name="font_medium">26sp</dimen>
+    <dimen name="font_extra_small">10sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_default">14sp</dimen>
+    <dimen name="font_medium">20sp</dimen>
 
-    <dimen name="font_large">28sp</dimen>
-    <dimen name="font_xlarge">30sp</dimen>
-    <dimen name="font_xxlarge">32sp</dimen>
-    <dimen name="font_xxxlarge">34sp</dimen>
+    <dimen name="font_large">22sp</dimen>
+    <dimen name="font_xlarge">24sp</dimen>
+    <dimen name="font_xxlarge">26sp</dimen>
+    <dimen name="font_xxxlarge">28sp</dimen>
 
-    <dimen name="font_banner">72sp</dimen>
+ 	<dimen name="font_banner">68sp</dimen>
 </resources>

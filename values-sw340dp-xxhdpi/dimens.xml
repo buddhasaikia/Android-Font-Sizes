@@ -21,19 +21,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 Github url- https://github.com/buddhasaikia/Android-Font-Sizes.git
 -->
+<!--Devices- MI Max2-->
 <resources>
-    <dimen name="font_extra_small">20sp</dimen>
-    <dimen name="font_small">22sp</dimen>
-    <dimen name="font_default">24sp</dimen>
-    <dimen name="font_medium">26sp</dimen>
+    <dimen name="font_xsmall">14sp</dimen>
+    <dimen name="font_small">16sp</dimen>
+    <dimen name="font_normal">18sp</dimen>
+    <dimen name="font_large">22sp</dimen>
+    <dimen name="font_xlarge">24sp</dimen>
+    <dimen name="font_xxlarge">28sp</dimen>
 
-    <dimen name="font_large">28sp</dimen>
-    <dimen name="font_xlarge">30sp</dimen>
-    <dimen name="font_xxlarge">32sp</dimen>
-    <dimen name="font_xxxlarge">34sp</dimen>
-
-    <dimen name="font_banner">72sp</dimen>
+    <dimen name="width_drawer_profile_photo">65dp</dimen>
+    <dimen name="height_drawer_profile_photo">65dp</dimen>
+    <dimen name="height_home_screen_header_background">280dp</dimen>
+    <dimen name="width_left_drawer">280dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="trip_list_padding_bottom">340dp</dimen>
+    <dimen name="trip_details_header_list_padding_end">70dp</dimen>
+    <dimen name="width_right_drawer">90dp</dimen>
+    <dimen name="trip_card_margin_left">4dp</dimen>
+    <dimen name="trip_card_margin_right">8dp</dimen>
+    <dimen name="trip_card_line_margin_left">8dp</dimen>
+    <dimen name="trip_card_header_dot_margin_left">8dp</dimen>
 </resources>
